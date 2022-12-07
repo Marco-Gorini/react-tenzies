@@ -1,0 +1,61 @@
+.main--section {
+    width: 320px;
+    height: 320px;
+    background: #F5F5F5;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.text {
+    margin-top: 33.28px;
+    margin-bottom: 23.08px;
+}
+
+.title {
+    margin-bottom: 15px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25.6px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #2B283A;
+    display: flex;
+    justify-content: center;
+}
+
+.description {
+    width: 232.96px;
+    height: 31.36px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.1072px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #4A4E74;
+    text-align: center;
+}
+
+.dices--space {
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 18.56px;
+}
+
+.text--div {
+    display: flex;
+    justify-content: center;
+}
+
